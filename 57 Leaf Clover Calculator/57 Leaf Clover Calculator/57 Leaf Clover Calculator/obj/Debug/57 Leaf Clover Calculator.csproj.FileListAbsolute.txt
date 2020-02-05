@@ -1,0 +1,7 @@
+C:\Users\Fiachra Sheridan\source\repos\57 Leaf Clover Calculator\57 Leaf Clover Calculator\bin\Debug\57 Leaf Clover Calculator.exe.config
+C:\Users\Fiachra Sheridan\source\repos\57 Leaf Clover Calculator\57 Leaf Clover Calculator\bin\Debug\57 Leaf Clover Calculator.exe
+C:\Users\Fiachra Sheridan\source\repos\57 Leaf Clover Calculator\57 Leaf Clover Calculator\bin\Debug\57 Leaf Clover Calculator.pdb
+C:\Users\Fiachra Sheridan\source\repos\57 Leaf Clover Calculator\57 Leaf Clover Calculator\obj\Debug\57 Leaf Clover Calculator.csprojAssemblyReference.cache
+C:\Users\Fiachra Sheridan\source\repos\57 Leaf Clover Calculator\57 Leaf Clover Calculator\obj\Debug\57 Leaf Clover Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Fiachra Sheridan\source\repos\57 Leaf Clover Calculator\57 Leaf Clover Calculator\obj\Debug\57 Leaf Clover Calculator.exe
+C:\Users\Fiachra Sheridan\source\repos\57 Leaf Clover Calculator\57 Leaf Clover Calculator\obj\Debug\57 Leaf Clover Calculator.pdb
