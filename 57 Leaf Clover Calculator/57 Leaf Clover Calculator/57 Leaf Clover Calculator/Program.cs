@@ -10,10 +10,16 @@ namespace _57_Leaf_Clover_Calculator
     {
         static void Main(string[] args)
         {
+
+            Clover();
             
+            
+        }
+        public static void Clover()
+        {
             double clover = 1 - 0.40;
-            
-            
+
+
             Console.WriteLine("What is the base proc chance of the item?(As a decimal)");
             double proc1 = double.Parse(Console.ReadLine());
             Console.WriteLine("How many clovers do you have?");
@@ -27,7 +33,27 @@ namespace _57_Leaf_Clover_Calculator
             double endAfterProc = end * procCo;
             Console.WriteLine("The chance for your item to proc before the proc Coefficient is {0}", end);
             Console.WriteLine("THe chance for your item to proc afterthe proc Coefficient is {0}", endAfterProc);
+
             Console.ReadLine();
+            ReDo();
+        }
+        public static void ReDo()
+        {
+            Console.WriteLine("Do you wish to continue? (Yes or No");
+            string userInput1 = Console.ReadLine().ToLower();
+            switch (userInput1)
+            {
+                case "yes":
+                case "y":
+                case "1":
+                    Clover();
+                    break;
+
+                case "no":
+                case "n":
+                case "2":
+                    break;
+            }
         }
     }
 }
